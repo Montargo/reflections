@@ -3,3 +3,12 @@
 
 - *How is the staging area different from the working directory and the repository? What value do you think it offers?*  
 	The staging area allows you to select which files should belong to a single commit. This ensures the commits stay logical.
+
+- *How can you use the staging area to make sure you have on commit per logical change?*  
+	You only add those files which you have changed to achieve a specific purpose. Then you commit them.
+
+- *What are some situations when branches would be helpful in keeping your history organized? How would branches help?*  
+	- When trying radically new ideas
+	- When making sweeping changes
+	- If the change I intend to make require many steps and can be outsourced
+
