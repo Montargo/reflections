@@ -12,3 +12,6 @@
 	- When making sweeping changes
 	- If the change I intend to make require many steps and can be outsourced
 
+- *How do the diagrams help you visualize the branch structure?*  
+	
+
