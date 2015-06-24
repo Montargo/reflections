@@ -13,5 +13,8 @@
 	- If the change I intend to make require many steps and can be outsourced
 
 - *How do the diagrams help you visualize the branch structure?*  
-	
+	As far as I am concerned they are the only way to visulize the branch structure. The correspond to my inner image.
+
+- *What is the result of merging two branches together? Why do we represent it in the diagram the way we do?*  
+	Deletions and additions are replicated both ways, the rest stays the same.
 
