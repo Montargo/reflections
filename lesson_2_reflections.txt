@@ -18,3 +18,12 @@
 - *What is the result of merging two branches together? Why do we represent it in the diagram the way we do?*  
 	Deletions and additions are replicated both ways, the rest stays the same.
 
+- *What are the pros and cons of Git's automatic merging vs. always doing merges manually?*  
+	- Pros of automatic merging:
+		- What has changed doesn't have to be remembered.
+		- Can focus on, and discuss conflicts instead
+		- I don't have to think about it
+	- Cons of automatic merging:
+		- Bugs can be introduced that are hard to find
+		- Different design philosophies can be mixed
+		- General loss of control
